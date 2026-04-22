@@ -1,5 +1,5 @@
 # United Airlines Departure Delay Analysis
-**Course:** DATA 5300 – Applied Statistical Inference & Experimental Design  
+**Course:** DATA 5300 - Applied Statistical Inference & Experimental Design  
 **Institution:** Seattle University, MS in Data Science  
 **Term:** Fall 2025  
 **Type:** Group Project (Individual Contribution)
